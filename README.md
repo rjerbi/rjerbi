@@ -26,6 +26,8 @@ I enjoy transforming complex problems into **scalable, intelligent, and impactfu
 ![LangChain](https://img.shields.io/badge/LangChain-blue?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-lightgrey?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-0B5FFF?style=flat&logo=chainlink&logoColor=white)
+![Chroma](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logo=databricks&logoColor=white)
 
 ---
 
