@@ -87,11 +87,6 @@ AI agent that reads emails and generates contextual professional replies
 - 🌍 Participated in **IEEEXtreme, TSYP, YSP, Hackathons**
 - 💬 Strong leadership, teamwork & communication skills
 
----
-
-## 📊 GitHub Stats
-
-![Rahma's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjerbi&show_icons=true&theme=tokyonight)
 
 ---
 
