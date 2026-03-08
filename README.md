@@ -73,6 +73,6 @@ I build intelligent and scalable web applications combining Full-Stack developme
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> – feel free to reach out! :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> – feel free to reach out! 😊</em>
 
 <p align="right">Created by Rahma Jerbi</p>
