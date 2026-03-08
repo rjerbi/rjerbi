@@ -19,52 +19,51 @@ I build intelligent and scalable web applications combining Full-Stack developme
 
 <div align="center">
   <!-- Backend -->
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/expressjs-icon.svg" alt="Express.js" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/symfony-icon.svg" alt="Symfony" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/fastapi-icon.svg" alt="FastAPI" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/flask-icon.svg" alt="Flask" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="Postman" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="50" height="50" title="Symfony"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" title="Postman"/>
 </div>
 
 <div align="center">
   <!-- Frontend -->
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="Angular" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="Tailwind" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="TailwindCSS"/>
 </div>
 
 <div align="center">
   <!-- AI / ML -->
-  <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="PyTorch" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/keras-icon.svg" alt="Keras" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/scikit-icon.svg" alt="scikit-learn" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nltk-icon.svg" alt="NLTK" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/spacy-icon.svg" alt="SpaCy" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/transformers-icon.svg" alt="Transformers" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/langchain-icon.svg" alt="LangChain" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/faiss-icon.svg" alt="FAISS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/chroma-icon.svg" alt="Chroma" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/gpt-icon.svg" alt="GPT" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50" title="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50" title="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" width="50" height="50" title="NLTK"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg" width="50" height="50" title="SpaCy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/transformers/transformers-original.svg" width="50" height="50" title="Transformers"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="50" height="50" title="LangChain"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/faiss/faiss-original.svg" width="50" height="50" title="FAISS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chroma/chroma-original.svg" width="50" height="50" title="Chroma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="50" height="50" title="GPT"/>
 </div>
 
 <div align="center">
   <!-- Database & Tools -->
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
 </div>
-
 ---
 
 ## 🧩 Projects
