@@ -33,7 +33,7 @@ I build intelligent and scalable web applications combining Full-Stack developme
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" height="40"/>
     <span style="display:inline-block; vertical-align:middle; margin-left:10px;">
-    and more <img align="middle" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="40"/>
+     and more <img align="middle" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="40"/>
   </span>
 </p>
 
