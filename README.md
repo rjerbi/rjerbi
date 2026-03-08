@@ -31,7 +31,7 @@ I build intelligent and scalable web applications combining Full-Stack developme
 
 - AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,scikitlearn,nltk,spacy" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,scikitlearn" height="40"/>
 </p>
 
 ## 🧩 Projects
