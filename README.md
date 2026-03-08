@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Rahma Jerbi</h1>
-<h3 align="center">Junior Full-Stack Web Developer & AI Enthusiast</h3>
+<h3 align="center">Full-Stack Web Developer & AI Enthusiast</h3>
 
 <p align="center">
 I build intelligent and scalable web applications combining Full-Stack development and AI/ML solutions. Passionate about creating dashboards, real-time messaging platforms, e-commerce apps, and AI-powered recommendation systems.
@@ -15,7 +15,7 @@ I build intelligent and scalable web applications combining Full-Stack developme
 
 - Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,php,laravel,symfony,fastapi,flask,postman,java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,php,laravel,symfony,fastapi,flask,postman,java,wordpress" height="40"/>
 </p>
 
 - Frontend
