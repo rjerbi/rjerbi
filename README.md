@@ -8,11 +8,8 @@ I build intelligent and scalable web applications combining Full-Stack developme
 </p>
 
 
----
-
 ## 🌐 Tech Stack
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -30,7 +27,6 @@ I build intelligent and scalable web applications combining Full-Stack developme
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,git" height="40"/>
 </p>
----
 
 ## 🧩 Projects
 
@@ -53,7 +49,7 @@ I build intelligent and scalable web applications combining Full-Stack developme
 - Product, sales, supplier, and reporting management  
 - Multi-role support and restricted access  
 
-### **Cloud Recommender (AI / Bonus)**
+### **Cloud Recommender**
 - Django, Python, MySQL, Bootstrap, KNN  
 - Intelligent cloud service recommendation based on client needs  
 - Responsive interface with user/admin role management  
