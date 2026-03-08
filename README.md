@@ -29,6 +29,11 @@ I build intelligent and scalable web applications combining Full-Stack developme
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,git" height="40"/>
 </p>
 
+- AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,scikitlearn,nltk,spacy,transformers,langchain,faiss,chroma,openai" height="40"/>
+</p>
+
 ## 🧩 Projects
 
 ### **Agricultural Association Platform**
