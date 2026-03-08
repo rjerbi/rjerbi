@@ -1,6 +1,4 @@
-![logo](supun-new.png) 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Rahma Jerbi</h1>
 <h3 align="center">Junior Full-Stack Web Developer & AI Enthusiast</h3>
@@ -9,17 +7,10 @@
 I build intelligent and scalable web applications combining Full-Stack development and AI/ML solutions. Passionate about creating dashboards, real-time messaging platforms, e-commerce apps, and AI-powered recommendation systems.
 </p>
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=rjerbi&label=Profile%20views&color=0e75b6&style=flat" alt="Rahma Jerbi" /> 
-</p>
 
 ---
 
 ## 🌐 Tech Stack
-
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=rjerbi&label=Profile%20views&color=0e75b6&style=flat" alt="Rahma Jerbi" /> 
-</p>
 
 ---
 
@@ -27,12 +18,12 @@ I build intelligent and scalable web applications combining Full-Stack developme
 
 - Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,php,laravel,symfony,fastapi,flask,postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,php,laravel,symfony,fastapi,flask,postman,java" height="40"/>
 </p>
 
 - Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,materialui,html,css,bootstrap,angularjs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,materialui,html,css,bootstrap,angular" height="40"/>
 </p>
 
 - Database & Tools
