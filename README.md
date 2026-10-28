@@ -23,13 +23,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a software engineer focused on **Artificial Intelligence, Agentic AI, and Large Language Model (LLM) systems**, with a background in Data Science and Computer Systems Engineering.
+I'm an AI Engineer specializing in Agentic AI and LLM systems, with a strong foundation in software engineering and data science.
 
-I'm passionate about designing and developing intelligent applications that connect language models, data, tools, and software systems to solve real-world problems.
-
-My interests include building LLM-powered applications, exploring agent workflows, developing retrieval-augmented systems, and integrating AI capabilities into practical software solutions.
-
-I combine AI techniques with software engineering principles to create applications that are useful, maintainable, and designed with real-world requirements in mind.
+I'm passionate about building intelligent applications using LLMs, RAG, tool calling, and AI-powered automation, combining AI techniques with software engineering to develop practical, reliable solutions.
 
 ## 🧠 Areas of Expertise & Interest
 
