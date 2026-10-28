@@ -105,6 +105,7 @@ I value:
 École Polytechnique de Sousse, Tunisia
 
 **Licence in Computer Systems Engineering — Embedded Systems & IoT**
+Higher Institute of Applied Sciences and Technology of Sousse, Tunisia
 
 ## 🤝 Let's Connect
 
