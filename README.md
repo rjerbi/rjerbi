@@ -12,7 +12,7 @@
   <a href="https://github.com/rjerbi">
     <img src="https://img.shields.io/badge/GitHub-rjerbi-181717?style=flat&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:rahmajerbi26@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahmajerbi26@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
