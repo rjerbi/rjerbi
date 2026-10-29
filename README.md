@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Rahma Jerbi 👋</h1>
 
-<h3 align="left">AI Engineer | Machine Learning & Agentic AI & LLM Systems</h3>
+<h3 align="left">AI Engineer | Data Science & Agentic AI & LLM Systems</h3>
 
 <p align="left">
   Building intelligent applications by combining AI, data, and software engineering.
