@@ -66,7 +66,7 @@ Python, Django, FastAPI, Flask, Node.js, Express.js, PHP, Laravel, Java, REST AP
 ### 📊 Data & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,pandas" height="40" alt="Databases and development tools"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,python" height="40" alt="Databases and development tools"/>
 </p>
 
 SQL, PostgreSQL, MySQL, MongoDB, BigQuery, Pandas, NumPy, Data Processing, ETL
